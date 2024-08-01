@@ -1,4 +1,4 @@
-[Original works](https://www.kaggle.com/code/fabiendaniel/customer-segmentation) I just edited it and improved model performance
+[Original work](https://www.kaggle.com/code/fabiendaniel/customer-segmentation) I just edited it and improved model performance
 # Customer Classification Project
 
 ## Overview
